@@ -1,6 +1,6 @@
 # nhtsa
 This is a REST API developed in Lumen framework written in PHP.<br/>
-It returns vehicles crash ratings by querying nhtsa open URL. 
+It returns vehicles crash test ratings by querying nhtsa open URL. 
 
 INSTALL:
 -------
